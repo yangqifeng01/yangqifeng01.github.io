@@ -1,9 +1,0 @@
-https://yangqifeng.fun/categories/index.html
-https://yangqifeng.fun/contact/index.html
-https://yangqifeng.fun/tags/index.html
-https://yangqifeng.fun/404/index.html
-https://yangqifeng.fun/friends/index.html
-https://yangqifeng.fun/about/index.html
-https://yangqifeng.fun/2022/11/11/hello-world/
-https://yangqifeng.fun/
-https://yangqifeng.fun/tags/hexo/
