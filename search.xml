@@ -4,13 +4,50 @@
   
     
     <entry>
-      <title>test1</title>
+      <title>nodejs安装</title>
+      <link href="/posts/15706.html"/>
+      <url>/posts/15706.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一-Node-js的概述"><a href="#一-Node-js的概述" class="headerlink" title="一.Node.js的概述"></a>一.Node.js的概述</h1><p>Node.js 不是一门编程语言，它是一个执行 JavaScript 代码的工具。学过Java的可以把安装Node.js看作安装JDK。</p><p>HTML页面中可以在<script></script> 中写JavaScript代码，然后在浏览器中运行。</p><p>Node.js 可以让JavaScript代码在一个单独的文件中编辑并在本地电脑上运行，如图所示</p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/202211222147913.png" alt="image-20221122214705860"></p><p>为什么浏览器和 Node.js 都可以运行 JavaScript</p><ul><li><p>因为浏览器和 Node.js 都内置了 JavaScript V8 Engine。</p></li><li><p>它可以将 JavaScript 代码编译为计算机能够识别的机器码。</p></li><li><p>JavaScript 运行在浏览器中我们就叫它客户端 JavaScript。</p></li><li><p>JavaScript 运行在 Node.js 中我们就叫它服务器端 JavaScript。</p></li></ul><p>我们在学习完JavaScript后，学习Node.js，更多的是学习其中的<strong>内置模块</strong>的使用，也就是其中Node API的使用</p><p>nodejs官方模块有：1、path模块，用于处理文件路径；2、until模块；3、fs模块，文件操作系统的API；4、events模块；5、http模块；6、jade模块；7、Express模块。</p><p>总结：nodejs是一个用来运行JavaScript的工具，我们可以通过调用其中的内置模块，来完成操作本地电脑中的文件，开启一个server服务等操作。</p><h1 id="二-安装环境"><a href="#二-安装环境" class="headerlink" title="二.安装环境"></a>二.安装环境</h1><p> 本人的安装环境位 Windows 10 64位</p><p>nodejs下载官网：<a href="https://nodejs.org/en/download/">点击前往官网下载</a></p><p>下载LTS版本 ，即长期支持版本</p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/202211222111757.png" alt="image-20221122211113689"></p><p>点击下载到本地即可</p><h1 id="三-安装过程"><a href="#三-安装过程" class="headerlink" title="三.安装过程"></a>三.安装过程</h1><ul><li>双击安装包，一直点击next</li><li>在选择安装位置时，可以点击change选择自己想要放置的位置</li></ul><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/202211222117273.png" alt="image-20221122211731223"></p><ul><li>一直next，直至安装完成</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件安装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nodejs </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo + GitHub个人博客搭建</title>
       <link href="/posts/51385.html"/>
       <url>/posts/51385.html</url>
       
-        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/202211190955798.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="一-搭建说明"><a href="#一-搭建说明" class="headerlink" title="一.搭建说明"></a>一.搭建说明</h1><p>环境为windows 10 64位</p><h1 id="二-安装搭建工具"><a href="#二-安装搭建工具" class="headerlink" title="二. 安装搭建工具"></a>二. 安装搭建工具</h1><h2 id="1-Nodejs下载安装"><a href="#1-Nodejs下载安装" class="headerlink" title="1.Nodejs下载安装"></a><a href="https://nodejs.org/en/download/">1.Nodejs下载安装</a></h2><h2 id="2-Git下载安装"><a href="#2-Git下载安装" class="headerlink" title="2.Git下载安装"></a><a href="https://git-scm.com/download/win">2.Git下载安装</a></h2><h2 id="3-hexo下载"><a href="#3-hexo下载" class="headerlink" title="3.hexo下载"></a>3.hexo下载</h2>]]></content>
       
       
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo, GitHub </tag>
+            
+        </tags>
       
     </entry>
     
