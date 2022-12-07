@@ -13,7 +13,7 @@
   <url>
     <loc>https://yangqifeng.fun/posts/51385.html</loc>
     
-    <lastmod>2022-11-22</lastmod>
+    <lastmod>2022-12-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,13 +92,6 @@
 
   
   <url>
-    <loc>https://yangqifeng.fun/tags/hexo-GitHub/</loc>
-    <lastmod>2022-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://yangqifeng.fun/tags/hexo/</loc>
     <lastmod>2022-12-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,7 +99,21 @@
   </url>
   
   <url>
-    <loc>https://yangqifeng.fun/tags/nodejs-npm/</loc>
+    <loc>https://yangqifeng.fun/tags/nodejs/</loc>
+    <lastmod>2022-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangqifeng.fun/tags/npm/</loc>
+    <lastmod>2022-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yangqifeng.fun/tags/GitHub/</loc>
     <lastmod>2022-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -115,14 +122,14 @@
 
   
   <url>
-    <loc>https://yangqifeng.fun/categories/hexo/</loc>
+    <loc>https://yangqifeng.fun/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://yangqifeng.fun/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://yangqifeng.fun/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
