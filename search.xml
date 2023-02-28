@@ -4,6 +4,62 @@
   
     
     <entry>
+      <title>永州旅游网站01</title>
+      <link href="/posts/6206.html"/>
+      <url>/posts/6206.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="网站-Day01"><a href="#网站-Day01" class="headerlink" title="网站 Day01"></a>网站 Day01</h2><h3 id="一-完成内容"><a href="#一-完成内容" class="headerlink" title="一. 完成内容"></a>一. 完成内容</h3><p>新建文件：Yongzhou-Tourism<br>创建 springboot项目：tourism-server（后端）<br>创建 vue项目：tourism-manage（后台）</p><h3 id="二-问题及解决方案"><a href="#二-问题及解决方案" class="headerlink" title="二. 问题及解决方案"></a>二. 问题及解决方案</h3><p>vue模板：vue-admin-template<br>github：<a href="https://github.com/PanJiaChen/vue-admin-template">https://github.com/PanJiaChen/vue-admin-template</a>  </p><p>问题1： 使用<br>git clone <a href="https://github.com/PanJiaChen/vue-admin-template.git">https://github.com/PanJiaChen/vue-admin-template.git</a> 命令下载失败<br>原因：我的git没有设置https代理，但是设置了http代理。<br>解决方法：使用 git clone <a href="http://github.com/PanJiaChen/vue-admin-template.git">http://github.com/PanJiaChen/vue-admin-template.git</a>  </p><p>问题2：使用npm install 下载组件失败<br>原因：不明。<br>解决方法：使用npm install –registry=<a href="https://registry.npm.taobao.org/">https://registry.npm.taobao.org</a>  </p><p>问题3：下载组件时出现一些warn<br>原因：版本问题。<br>解决方法：不影响使用。  </p><p>问题4：使用npm run dev 启动失败<br>原因：版本问题。<br>解决方法：在package.json中的 script标签的最上面加上  </p><pre class="line-numbers language-none"><code class="language-none">"serve":"SET NODE_OPTIONS=--openssl-legacy-provider &amp;&amp; vue-cli-service serve","build": "SET NODE_OPTIONS=--openssl-legacy-provider &amp;&amp; vue-cli-service build",<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>启动命令改为 npm run serve</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 永州旅游网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vue </tag>
+            
+            <tag> springboot </tag>
+            
+            <tag> 毕业设计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>判断推理1</title>
+      <link href="/posts/11331.html"/>
+      <url>/posts/11331.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="行测学习-Day01"><a href="#行测学习-Day01" class="headerlink" title="行测学习 Day01"></a>行测学习 Day01</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>图形推理：位置规律、样式规律、属性规律、特殊规律<br>做题策略：<br>观察图形是否相同，相同则考虑位置规律；相似则考虑样式规律<br>既不相同也不相似，则考虑属性规律；没有明显规律则考虑特殊规律</p><h3 id="二-位置规律"><a href="#二-位置规律" class="headerlink" title="二. 位置规律"></a>二. 位置规律</h3><p>平移 旋转 翻转</p><h3 id="三-样式规律"><a href="#三-样式规律" class="headerlink" title="三. 样式规律"></a>三. 样式规律</h3><p>遍历 加减同异 黑白运算</p><h3 id="四-属性规律"><a href="#四-属性规律" class="headerlink" title="四. 属性规律"></a>四. 属性规律</h3><p>对称 曲直 开闭</p><h3 id="五-特殊规律"><a href="#五-特殊规律" class="headerlink" title="五. 特殊规律"></a>五. 特殊规律</h3><p>图形间的关系 功能元素</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行测学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 逻辑推理 </tag>
+            
+            <tag> 图形推理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>nodejs安装</title>
       <link href="/posts/15706.html"/>
       <url>/posts/15706.html</url>
