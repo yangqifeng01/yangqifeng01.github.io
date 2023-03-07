@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>资料分析3</title>
+      <link href="/posts/11104.html"/>
+      <url>/posts/11104.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="行测学习-Day05"><a href="#行测学习-Day05" class="headerlink" title="行测学习 Day05"></a>行测学习 Day05</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>比重：比重中的饼图问题，计算基期比重，两期比重<br>平均数：现期平均数，基期平均数，两期平均数的比较</p><h3 id="二-比重"><a href="#二-比重" class="headerlink" title="二. 比重"></a>二. 比重</h3><h4 id="饼图问题"><a href="#饼图问题" class="headerlink" title="饼图问题"></a>饼图问题</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307163230.png" alt="20230307163230"></p><h4 id="基期比重"><a href="#基期比重" class="headerlink" title="基期比重"></a>基期比重</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307163630.png" alt="20230307163630"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307163414.png" alt="20230307163414"></p><p>精算化一法公式：**${A \over B} * (1 + {b-a \over 1+a})$**<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307163750.png" alt="20230307163750"></p><h4 id="两期比重的比较–升降"><a href="#两期比重的比较–升降" class="headerlink" title="两期比重的比较–升降"></a>两期比重的比较–升降</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307164300.png" alt="20230307164300"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307164414.png" alt="20230307164414"></p><h4 id="两期比重的计算"><a href="#两期比重的计算" class="headerlink" title="两期比重的计算"></a>两期比重的计算</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307164545.png" alt="20230307164545"></p><h3 id="三-平均数"><a href="#三-平均数" class="headerlink" title="三. 平均数"></a>三. 平均数</h3><h4 id="现期平均数"><a href="#现期平均数" class="headerlink" title="现期平均数"></a>现期平均数</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307164744.png" alt="20230307164744"></p><h4 id="基期平均数"><a href="#基期平均数" class="headerlink" title="基期平均数"></a>基期平均数</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307164917.png" alt="20230307164917"></p><h4 id="两期平均数"><a href="#两期平均数" class="headerlink" title="两期平均数"></a>两期平均数</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307165340.png" alt="20230307165340"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230307165428.png" alt="20230307165428"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行测学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资料分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>资料分析2</title>
       <link href="/posts/60321.html"/>
       <url>/posts/60321.html</url>
       
-        <content type="html"><![CDATA[<h2 id="行测学习-Day04"><a href="#行测学习-Day04" class="headerlink" title="行测学习 Day04"></a>行测学习 Day04</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="行测学习-Day04"><a href="#行测学习-Day04" class="headerlink" title="行测学习 Day04"></a>行测学习 Day04</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>增长率：计算增长率，给定增长率判断，增长率比较<br>增长量：计算增长量，年均增长量，比较增长量  </p><h3 id="二-增长率"><a href="#二-增长率" class="headerlink" title="二. 增长率"></a>二. 增长率</h3><p>题型1：给出现期增长率，还有增长率的涨幅，要求计算基期增长率  </p><p>题型2：给出现期量，增长量求增长率<br><strong>增长率 = ${增长量 \over 基期量}$ = ${现期量 \over 基期量} - 1$</strong></p><p>题型3：给出一个增长率，判断是否正确<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-34-17.png" alt="Snipaste_2023-03-03_19-34-17"></p><p>题型4：增长率的比较<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-39-25.png" alt="Snipaste_2023-03-03_19-39-25"></p><p>给定增长量，现期量<br>增长率 与 ${增长量 \over 现期量}$ 成正比</p><h3 id="三-增长量"><a href="#三-增长量" class="headerlink" title="三. 增长量"></a>三. 增长量</h3><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-59-43.png" alt="Snipaste_2023-03-03_19-59-43"></p><p><strong>r = 增长率</strong></p><p>当|r| &lt; 5%时，增长量 = 现期量 * r</p><p>年均增长量<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_20-03-12.png" alt="Snipaste_2023-03-03_20-03-12"></p><p>给出现期量，增长率求增长量<br><strong>增长量 = ${现期量 \over n+1}$</strong></p><p>n 为增长率分数形式的分母<br>比如 ：增长率 25% = ${\frac 14}$ 所以 n = 4</p><p>增长率为负数时：<strong>增长量 = - ${现期量 \over n-1}$</strong></p><p>增长倍数（子母都截，多步除法）</p><h4 id="增长量的比较"><a href="#增长量的比较" class="headerlink" title="增长量的比较"></a>增长量的比较</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_21-48-56.png" alt="Snipaste_2023-03-03_21-48-56"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_22-17-42.png" alt="Snipaste_2023-03-03_22-17-42"></p><p>50%  = ${1 \over 2}$ 33.3% = ${1 \over 3}$ 25% = ${1 \over 4}$ 20% = ${1 \over 5}$<br>16.7% = ${1 \over 6}$ 14.3% = ${1 \over 7}$ 12.5% = ${1 \over 8}$ 11.1% = ${1 \over 9}$<br>10% = ${1 \over 10}$ 9.1% = ${1 \over 11}$ 8.3% = ${1 \over 12}$ 7.7% = ${1 \over 13}$<br>7.1% = ${1 \over 14}$ 6.7% = ${1 \over 15}$ 6.25% = ${1 \over 16}$ 5.9% = ${1 \over 17}$<br>5.6% = ${1 \over 18}$ 5.1% = ${ 1 \over 19}$</p>]]></content>
       
       
       <categories>
