@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>资料分析4</title>
+      <link href="/posts/59681.html"/>
+      <url>/posts/59681.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="行测学习-Day06"><a href="#行测学习-Day06" class="headerlink" title="行测学习 Day06"></a>行测学习 Day06</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>增长倍数</p><p>间隔增长率：r = $r_1$ + $r_2$ + $r_1$ * $r_2$</p><p>混合增长率：线段法</p><h3 id="二-增长倍数"><a href="#二-增长倍数" class="headerlink" title="二. 增长倍数"></a>二. 增长倍数</h3><h4 id="倍数与增长率"><a href="#倍数与增长率" class="headerlink" title="倍数与增长率"></a>倍数与增长率</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309093510.png" alt="20230309093510"></p><h4 id="求基期增长倍数（基期增长率）"><a href="#求基期增长倍数（基期增长率）" class="headerlink" title="求基期增长倍数（基期增长率）"></a>求基期增长倍数（基期增长率）</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309093651.png" alt="20230309093651"></p><h3 id="三-间隔增长率"><a href="#三-间隔增长率" class="headerlink" title="三. 间隔增长率"></a>三. 间隔增长率</h3><h4 id="题型识别与解法"><a href="#题型识别与解法" class="headerlink" title="题型识别与解法"></a>题型识别与解法</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309093923.png" alt="20230309093923"></p><h4 id="间隔倍数"><a href="#间隔倍数" class="headerlink" title="间隔倍数"></a>间隔倍数</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094018.png" alt="20230309094018"></p><h4 id="间隔基期量"><a href="#间隔基期量" class="headerlink" title="间隔基期量"></a>间隔基期量</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094117.png" alt="20230309094117"></p><h3 id="四-年均增长率"><a href="#四-年均增长率" class="headerlink" title="四. 年均增长率"></a>四. 年均增长率</h3><h4 id="题型识别与公式"><a href="#题型识别与公式" class="headerlink" title="题型识别与公式"></a>题型识别与公式</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094323.png" alt="20230309094323"></p><h4 id="解法"><a href="#解法" class="headerlink" title="解法"></a>解法</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094410.png" alt="20230309094410"></p><h4 id="常考平方数"><a href="#常考平方数" class="headerlink" title="常考平方数"></a>常考平方数</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309095224.png" alt="20230309095224"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094517.png" alt="20230309094517"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094540.png" alt="20230309094540"></p><h3 id="五-混合增长率"><a href="#五-混合增长率" class="headerlink" title="五. 混合增长率"></a>五. 混合增长率</h3><h4 id="线段法"><a href="#线段法" class="headerlink" title="线段法"></a>线段法</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094810.png" alt="20230309094810"></p><h4 id="题型识别与解法-1"><a href="#题型识别与解法-1" class="headerlink" title="题型识别与解法"></a>题型识别与解法</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/20230309094928.png" alt="20230309094928"></p><p><strong>基期量可以用现期量替代</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 行测学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资料分析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>资料分析3</title>
       <link href="/posts/11104.html"/>
       <url>/posts/11104.html</url>
@@ -33,7 +58,7 @@
       <link href="/posts/60321.html"/>
       <url>/posts/60321.html</url>
       
-        <content type="html"><![CDATA[<h2 id="行测学习-Day04"><a href="#行测学习-Day04" class="headerlink" title="行测学习 Day04"></a>行测学习 Day04</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>增长率：计算增长率，给定增长率判断，增长率比较<br>增长量：计算增长量，年均增长量，比较增长量  </p><h3 id="二-增长率"><a href="#二-增长率" class="headerlink" title="二. 增长率"></a>二. 增长率</h3><p>题型1：给出现期增长率，还有增长率的涨幅，要求计算基期增长率  </p><p>题型2：给出现期量，增长量求增长率<br><strong>增长率 = ${增长量 \over 基期量}$ = ${现期量 \over 基期量} - 1$</strong></p><p>题型3：给出一个增长率，判断是否正确<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-34-17.png" alt="Snipaste_2023-03-03_19-34-17"></p><p>题型4：增长率的比较<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-39-25.png" alt="Snipaste_2023-03-03_19-39-25"></p><p>给定增长量，现期量<br>增长率 与 ${增长量 \over 现期量}$ 成正比</p><h3 id="三-增长量"><a href="#三-增长量" class="headerlink" title="三. 增长量"></a>三. 增长量</h3><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-59-43.png" alt="Snipaste_2023-03-03_19-59-43"></p><p><strong>r = 增长率</strong></p><p>当|r| &lt; 5%时，增长量 = 现期量 * r</p><p>年均增长量<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_20-03-12.png" alt="Snipaste_2023-03-03_20-03-12"></p><p>给出现期量，增长率求增长量<br><strong>增长量 = ${现期量 \over n+1}$</strong></p><p>n 为增长率分数形式的分母<br>比如 ：增长率 25% = ${\frac 14}$ 所以 n = 4</p><p>增长率为负数时：<strong>增长量 = - ${现期量 \over n-1}$</strong></p><p>增长倍数（子母都截，多步除法）</p><h4 id="增长量的比较"><a href="#增长量的比较" class="headerlink" title="增长量的比较"></a>增长量的比较</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_21-48-56.png" alt="Snipaste_2023-03-03_21-48-56"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_22-17-42.png" alt="Snipaste_2023-03-03_22-17-42"></p><p>50%  = ${1 \over 2}$ 33.3% = ${1 \over 3}$ 25% = ${1 \over 4}$ 20% = ${1 \over 5}$<br>16.7% = ${1 \over 6}$ 14.3% = ${1 \over 7}$ 12.5% = ${1 \over 8}$ 11.1% = ${1 \over 9}$<br>10% = ${1 \over 10}$ 9.1% = ${1 \over 11}$ 8.3% = ${1 \over 12}$ 7.7% = ${1 \over 13}$<br>7.1% = ${1 \over 14}$ 6.7% = ${1 \over 15}$ 6.25% = ${1 \over 16}$ 5.9% = ${1 \over 17}$<br>5.6% = ${1 \over 18}$ 5.1% = ${ 1 \over 19}$</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="行测学习-Day04"><a href="#行测学习-Day04" class="headerlink" title="行测学习 Day04"></a>行测学习 Day04</h2><h3 id="一-学习内容"><a href="#一-学习内容" class="headerlink" title="一. 学习内容"></a>一. 学习内容</h3><p>增长率：计算增长率，给定增长率判断，增长率比较<br>增长量：计算增长量，年均增长量，比较增长量  </p><h3 id="二-增长率"><a href="#二-增长率" class="headerlink" title="二. 增长率"></a>二. 增长率</h3><p>题型1：给出现期增长率，还有增长率的涨幅，要求计算基期增长率  </p><p>题型2：给出现期量，增长量求增长率<br><strong>增长率 = ${增长量 \over 基期量}$ = ${现期量 \over 基期量} - 1$</strong></p><p>题型3：给出一个增长率，判断是否正确<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-34-17.png" alt="Snipaste_2023-03-03_19-34-17"></p><p>题型4：增长率的比较<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-39-25.png" alt="Snipaste_2023-03-03_19-39-25"></p><p>给定增长量，现期量<br>增长率 与 ${增长量 \over 现期量}$ 成正比</p><h3 id="三-增长量"><a href="#三-增长量" class="headerlink" title="三. 增长量"></a>三. 增长量</h3><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_19-59-43.png" alt="Snipaste_2023-03-03_19-59-43"></p><p><strong>r = 增长率</strong></p><p>当|r| &lt; 5%时，增长量 = 现期量 * r</p><p>年均增长量<br><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_20-03-12.png" alt="Snipaste_2023-03-03_20-03-12"></p><p>给出现期量，增长率求增长量<br><strong>增长量 = ${现期量 \over n+1}$</strong></p><p>n 为增长率分数形式的分母<br>比如 ：增长率 25% = ${\frac 14}$ 所以 n = 4</p><p>增长率为负数时：<strong>增长量 = - ${现期量 \over n-1}$</strong></p><p>增长倍数（子母都截，多步除法）</p><h4 id="增长量的比较"><a href="#增长量的比较" class="headerlink" title="增长量的比较"></a>增长量的比较</h4><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_21-48-56.png" alt="Snipaste_2023-03-03_21-48-56"></p><p><img src="https://cdn.jsdelivr.net/gh/yangqifeng01/picture/blog/Snipaste_2023-03-03_22-17-42.png" alt="Snipaste_2023-03-03_22-17-42"></p><p>50%  = ${1 \over 2}$ | 33.3% = ${1 \over 3}$ | 25% = ${1 \over 4}$ | 20% = ${1 \over 5}$</p><p>16.7% = ${1 \over 6}$ 14.3% = ${1 \over 7}$ 12.5% = ${1 \over 8}$ 11.1% = ${1 \over 9}$</p><p>10% = ${1 \over 10}$ 9.1% = ${1 \over 11}$ 8.3% = ${1 \over 12}$ 7.7% = ${1 \over 13}$</p><p>7.1% = ${1 \over 14}$ 6.7% = ${1 \over 15}$ 6.25% = ${1 \over 16}$ 5.9% = ${1 \over 17}$</p><p>5.6% = ${1 \over 18}$ 5.1% = ${ 1 \over 19}$</p>]]></content>
       
       
       <categories>
@@ -108,7 +133,7 @@
     
     
     <entry>
-      <title>判断推理2</title>
+      <title>图形推理2</title>
       <link href="/posts/11523.html"/>
       <url>/posts/11523.html</url>
       
@@ -164,7 +189,7 @@
     
     
     <entry>
-      <title>判断推理1</title>
+      <title>图形推理1</title>
       <link href="/posts/11331.html"/>
       <url>/posts/11331.html</url>
       
